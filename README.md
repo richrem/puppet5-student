@@ -1,1 +1,1 @@
-# puppet5-student
+# manifest files for puppet5 students
